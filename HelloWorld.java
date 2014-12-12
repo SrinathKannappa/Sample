@@ -3,7 +3,7 @@ public class HelloWorld {
     System.out.println("Hello World!");
     System.out.println("Hey Man.:how are you doing??");
 	for(int i=0;i++;i<4)
-	{System.out.println(i);
+	{System.out.println(i+1);
 	}
 
   }
